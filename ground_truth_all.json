@@ -1,0 +1,182 @@
+[
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00000.wav",
+    "text": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+    "duration": 8.3
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00001.wav",
+    "text": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ",
+    "duration": 7.36
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00002.wav",
+    "text": "بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+    "duration": 11.3350625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00003.wav",
+    "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+    "duration": 14.3
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00004.wav",
+    "text": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+    "duration": 4.88
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00005.wav",
+    "text": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ",
+    "duration": 19.1950625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00006.wav",
+    "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ أَفَلَا يَسْمَعُونَ",
+    "duration": 11.4150625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00007.wav",
+    "text": "مِن",
+    "duration": 2.1200625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00008.wav",
+    "text": "وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+    "duration": 8.8950625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00009.wav",
+    "text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًۭا",
+    "duration": 21.6550625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00010.wav",
+    "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ",
+    "duration": 25.4150625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00011.wav",
+    "text": "وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ",
+    "duration": 16.9150625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00012.wav",
+    "text": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+    "duration": 4.86
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00013.wav",
+    "text": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ",
+    "duration": 3.86
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00014.wav",
+    "text": "بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+    "duration": 8.42
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00015.wav",
+    "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+    "duration": 8.01
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00016.wav",
+    "text": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+    "duration": 3.9
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00017.wav",
+    "text": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ",
+    "duration": 9.3
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00018.wav",
+    "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ",
+    "duration": 6.28
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00019.wav",
+    "text": "أَفَلَا يَسْمَعُونَ",
+    "duration": 3.3950625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00020.wav",
+    "text": "أَوْ كَصَيِّبٍۢ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ",
+    "duration": 11.44
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00021.wav",
+    "text": "يَجْعَلُونَ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ",
+    "duration": 11.8350625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00022.wav",
+    "text": "وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+    "duration": 6.08
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00023.wav",
+    "text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ",
+    "duration": 7.05
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00024.wav",
+    "text": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+    "duration": 5.36
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00025.wav",
+    "text": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ",
+    "duration": 5.42
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00026.wav",
+    "text": "بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+    "duration": 9.28
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00027.wav",
+    "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+    "duration": 9.96
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00028.wav",
+    "text": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+    "duration": 3.54
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00029.wav",
+    "text": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ",
+    "duration": 15.1
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00030.wav",
+    "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ",
+    "duration": 5.5350625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00031.wav",
+    "text": "أَفَلَا يَسْمَعُونَ",
+    "duration": 3.56
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00032.wav",
+    "text": "أَوْ كَصَيِّبٍۢ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ",
+    "duration": 12.62
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00033.wav",
+    "text": "فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ يَجْعَلُونَ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ",
+    "duration": 20.3150625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00034.wav",
+    "text": "وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+    "duration": 7.3550625
+  },
+  {
+    "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00035.wav",
+    "text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ",
+    "duration": 6.78
+  }
+]

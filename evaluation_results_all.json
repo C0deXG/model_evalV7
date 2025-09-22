@@ -1,0 +1,191 @@
+{
+  "model_checkpoint": "/workspace/quran-asr/exp/cn1024_ar_debug_resume/run_b200/2025-09-15_03-44-22/checkpoints/epepoch=09-werval_wer=0.0192-EMA.ckpt",
+  "base_model": "/workspace/quran-asr/checkpoints/quran_citrinet1024_stage1/checkpoints/quran_citrinet1024_stage1.nemo",
+  "total_samples_in_dataset": 36,
+  "samples_evaluated": 36,
+  "samples_skipped": 0,
+  "overall_wer": 0.6460176991150443,
+  "overall_wer_percent": 64.60176991150442,
+  "results": [
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00000.wav",
+      "ground_truth": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "prediction": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00001.wav",
+      "ground_truth": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ",
+      "prediction": "أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَهوَّلِ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00002.wav",
+      "ground_truth": "بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+      "prediction": "بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ جَدِيدٖ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00003.wav",
+      "ground_truth": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+      "prediction": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00004.wav",
+      "ground_truth": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "prediction": "ٱلنَّجۡمُ ٱلثَّاقِبُ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00005.wav",
+      "ground_truth": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ",
+      "prediction": "أَوَلَمۡ يَهۡدِ لَهُمۡ كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّنَ ٱلۡقُرُونِ يَمۡشُونَ فِي مَسَٰكِنِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00006.wav",
+      "ground_truth": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ أَفَلَا يَسْمَعُونَ",
+      "prediction": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٍۚ أَفَلَا يَسۡمَعُونَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00007.wav",
+      "ground_truth": "مِن",
+      "prediction": ""
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00008.wav",
+      "ground_truth": "وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+      "prediction": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00009.wav",
+      "ground_truth": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًۭا",
+      "prediction": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00010.wav",
+      "ground_truth": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ",
+      "prediction": "وَلَقَدۡ أَرۡسَلۡنَا رُسُلٗا مِّن قَبۡلِكَ مِنۡهُم مَّن قَصَصۡنَا عَلَيۡكَ وَمِنۡهُم مَّن لَّمۡ نَقۡصُصۡ عَلَيۡ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00011.wav",
+      "ground_truth": "وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ",
+      "prediction": "وَمَا كَانَ لِرَسُولٍ أَن يَأۡتِيَ بِـَٔايَةٍ إِلَّا بِإِذۡنِ ٱلنَّاهِ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00012.wav",
+      "ground_truth": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "prediction": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00013.wav",
+      "ground_truth": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ",
+      "prediction": "أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00014.wav",
+      "ground_truth": "بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+      "prediction": "بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ جَدِيدٖ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00015.wav",
+      "ground_truth": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+      "prediction": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00016.wav",
+      "ground_truth": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "prediction": "ٱلنَّجۡمُ ٱلثَّاقِبُ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00017.wav",
+      "ground_truth": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ",
+      "prediction": "أَوَلَمۡ يَهۡدِ لَهُمۡ كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّنَ ٱلۡقُرُونِ يَمۡشُونَ فِي مَسَٰكِنِهِمۡ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00018.wav",
+      "ground_truth": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ",
+      "prediction": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰءٖ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00019.wav",
+      "ground_truth": "أَفَلَا يَسْمَعُونَ",
+      "prediction": "أَفَلَا يَسۡمَعُونَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00020.wav",
+      "ground_truth": "أَوْ كَصَيِّبٍۢ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ",
+      "prediction": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرَقٞ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00021.wav",
+      "ground_truth": "يَجْعَلُونَ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ",
+      "prediction": "يَجۡعَلُونَ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلۡبَوۡد"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00022.wav",
+      "ground_truth": "وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+      "prediction": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00023.wav",
+      "ground_truth": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ",
+      "prediction": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00024.wav",
+      "ground_truth": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "prediction": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00025.wav",
+      "ground_truth": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ",
+      "prediction": "أَفَعَيِينَا بِالْخَلْقِ الْأَوَّلِ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00026.wav",
+      "ground_truth": "بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+      "prediction": "بَلْ هُمْ فِي لَبْسٍ مِّنۡ خَلْقٍ جَدِيدٖ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00027.wav",
+      "ground_truth": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+      "prediction": "رُّبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00028.wav",
+      "ground_truth": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "prediction": "ٱلنَّجْمُ ٱلثَّاقِبُ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00029.wav",
+      "ground_truth": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ ٱلْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ",
+      "prediction": "أَوَلَمْ يَهْدِ لَهُمْ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَكِنِهِمْ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00030.wav",
+      "ground_truth": "إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ",
+      "prediction": "إِنَّ فِى ذَٰلِكَ لَءَايَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00031.wav",
+      "ground_truth": "أَفَلَا يَسْمَعُونَ",
+      "prediction": "أَفَلَا يَسۡمَعُونَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00032.wav",
+      "ground_truth": "أَوْ كَصَيِّبٍۢ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ",
+      "prediction": "أَوۡ كَصَيِّبٖ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٞ وَرَعۡدٞ وَبَرۡقٞ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00033.wav",
+      "ground_truth": "فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ يَجْعَلُونَ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ",
+      "prediction": "فِيهِ ظُلُمَاَتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّّوَاعِقِ حَذَرَ الْمَوْرِِ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00034.wav",
+      "ground_truth": "وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+      "prediction": "وَٱللَّهُ مُحِيطُۢ بِٱلۡكَٰفِرِينَ"
+    },
+    {
+      "path": "/workspace/quran-asr/eval_0.04/audio_fixed/sample_00035.wav",
+      "ground_truth": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ",
+      "prediction": "مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ"
+    }
+  ]
+}
