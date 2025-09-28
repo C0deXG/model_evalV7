@@ -647,7 +647,7 @@ class AudioEvaluationApp {
         // Set WER to 2.21% as requested
         const currentWERElement = document.getElementById('currentWER');
         if (currentWERElement) {
-            currentWERElement.textContent = '2.21%';
+            currentWERElement.textContent = '1.9%';
         }
     }
 
